@@ -9,7 +9,7 @@ I've programmed in Delphi for mobile devices for many years of my life in a big 
 These days, I've changed my trajectory and I'm a *javascript learner* 💡, completely fascinated by React/React Native .
 
 As I said earlier, I am also a musician :musical_note: and my favorite style is Good old rock and roll, listen to a song by my band:
-[Escute aqui] :headphones:
+[Here] :headphones:
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -35,5 +35,5 @@ As I said earlier, I am also a musician :musical_note: and my favorite style is 
 
 [Cemig]: https://www.cemig.com.br
 [instagram]: https://www.instagram.com/maxmurtesvieira/
-[Escute aqui]: https://open.spotify.com/track/0JrfSaMVZOeHQDNrvdMjFH?si=be6022538d524948
+[Here]: https://open.spotify.com/track/0JrfSaMVZOeHQDNrvdMjFH?si=be6022538d524948
 <br>
