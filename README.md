@@ -6,7 +6,7 @@ I'm a Musician/Programmer residing in Contagem, Minas Gerais, Brazil! :earth_ame
 
 I've programmed in Delphi for mobile devices for many years of my life in a big company called - [Cemig][Cemig] 🏛 
 
-These days, I've changed my trajectory and I'm a *javascript learner* 💡, completely fascinated by React/React Native .
+During the turbulent time we went through in 2020, I've changed my trajectory and I'm a *javascript learner* 💡, completely fascinated by React/React Native .
 
 As I said earlier, I am also a musician :musical_note: and my favorite style is Good old rock and roll, listen to a song by my band:
 [Here] :headphones:
